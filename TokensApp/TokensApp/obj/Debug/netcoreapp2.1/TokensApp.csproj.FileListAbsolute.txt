@@ -1,0 +1,14 @@
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\bin\Debug\netcoreapp2.1\TokensApp.deps.json
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\bin\Debug\netcoreapp2.1\TokensApp.runtimeconfig.json
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\bin\Debug\netcoreapp2.1\TokensApp.runtimeconfig.dev.json
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\bin\Debug\netcoreapp2.1\TokensApp.dll
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.csprojAssemblyReference.cache
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.csproj.CoreCompileInputs.cache
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.RazorAssemblyInfo.cache
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.RazorAssemblyInfo.cs
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.AssemblyInfoInputs.cache
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.AssemblyInfo.cs
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.RazorTargetAssemblyInfo.cache
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\bin\Debug\netcoreapp2.1\TokensApp.pdb
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.dll
+c:\users\сагадиеве\source\repos\TokensApp\TokensApp\obj\Debug\netcoreapp2.1\TokensApp.pdb
